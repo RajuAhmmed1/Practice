@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bimage {
+  margin: 0 auto;
+  display: block;
+}
+.bname {
+  font-weight: bold;
+  margin: 30px 20% 0;
+}
+.bcontent p {
+  margin: 20px 20%;
+  bottom: 30px;
+}
