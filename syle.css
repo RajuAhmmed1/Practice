@@ -13,6 +13,7 @@ body {
 .bname {
   font-weight: bold;
   margin: 30px 20% 0;
+  color: royalblue;
 }
 .bcontent p {
   margin: 20px 20%;
